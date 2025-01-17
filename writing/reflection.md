@@ -1,4 +1,4 @@
-## Names: TODO
+## Names: Jaclyn Pham, Alish Chhetri
 
 ### Performance
 
@@ -6,11 +6,11 @@ Did the network's output make sense?
 How could you adjust weights or activation functions to improve accuracy?
 What did you notice about how small changes (e.g., weights) affect outcomes?
 
+We calculated 2 scenarios of input values and weights, and notice that the larger the Weighted Sum, the closer the sigmoid function approaching 1. Small changes in weights(i.e. smaller weight) or values(i.e. larger values), the larger the Weighted Sum
 ### Ethics
 
-What potential biases or ethical considerations could arise in your example scenario?
+This does not take into account factors like lifestyle, income, health, etc. 
 
 ### Reflection
 
-What was easy to understand about the neural network?
-What challenges did they face?
+It's easy to understand Neural Network, it's pretty intuitive. 
