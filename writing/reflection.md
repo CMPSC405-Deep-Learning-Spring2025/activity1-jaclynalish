@@ -8,7 +8,7 @@ What did you notice about how small changes (e.g., weights) affect outcomes?
 
 We calculated 2 scenarios of input values and weights, and notice that the larger the Weighted Sum, the closer the sigmoid function approaching 1. Small changes in weights(i.e. smaller weight) or values(i.e. larger values), the larger the Weighted Sum
 
-![image](/writing/IMG_3848.heic)
+![image](/writing/IMG_3848.png)
 ### Ethics
 
 This does not take into account factors like lifestyle, income, health, etc. 
