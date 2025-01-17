@@ -7,6 +7,8 @@ How could you adjust weights or activation functions to improve accuracy?
 What did you notice about how small changes (e.g., weights) affect outcomes?
 
 We calculated 2 scenarios of input values and weights, and notice that the larger the Weighted Sum, the closer the sigmoid function approaching 1. Small changes in weights(i.e. smaller weight) or values(i.e. larger values), the larger the Weighted Sum
+
+![image](/writing/IMG_3848.heic)
 ### Ethics
 
 This does not take into account factors like lifestyle, income, health, etc. 
